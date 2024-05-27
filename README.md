@@ -36,7 +36,3 @@ The `Movie Plus` project utilizes the following technologies and concepts:
 ## Conclusion
 
 The `Movie Plus` project showcases the capabilities of `React` and related technologies in building a dynamic and interactive web application for movie enthusiasts. With its intuitive user interface and rich feature set, `Movie Plus` offers users a delightful experience for exploring and managing their favorite movies. Feel free to dive into the world of cinema with `Movie Plus`!
-
-## Demo
-
-You can view a live demo of the project here: <a href="https://movie-plus-version-1.netlify.app">`https://movie-plus-version-1.netlify.app`</a>.
