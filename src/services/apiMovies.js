@@ -1,4 +1,6 @@
-import { API_MOVIES_ROOT, KEY } from "../utils/constants";
+import { API_MOVIES_ROOT } from "../utils/constants";
+
+const KEY = process.env.REACT_APP_OMDB_API_KEY;
 
 export async function fetchMoviesApi(query) {
   const controller = new AbortController();
